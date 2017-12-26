@@ -37,4 +37,9 @@
 
 [postgresql](docs/postgresql.md)
 
-[数据湖](docs/data_lake.md)
+## 数据如何落地
+
+1. 数据项目
+2. 数据平台
+3. 数据解决方案
+4. 数据产品
