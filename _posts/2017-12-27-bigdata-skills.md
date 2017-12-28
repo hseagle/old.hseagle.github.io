@@ -1,10 +1,3 @@
----
-layout: post
-title: 大数据技术能力的基本组成
-description: 能力培养
-categories:
-  - bigdata
----
 # 大数据技术能力
 
 - 分布式消息队列 以kakfa和rocketmq为代表
@@ -44,5 +37,3 @@ categories:
 2. 数据平台
 3. 数据解决方案
 4. 数据产品
-
-
