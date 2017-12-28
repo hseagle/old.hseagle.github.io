@@ -11,7 +11,6 @@ title: 数据星球
 <ol>
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
     </li>
 </ol>
 {% endfor %}
