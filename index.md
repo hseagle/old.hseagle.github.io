@@ -7,12 +7,11 @@ title: 数据星球
 
 专注于IoT数据的存储与分析
 
--   
 {% for post in site.posts %}
 <ol>
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
-    </ol>
+</ol>
 {% endfor %}
