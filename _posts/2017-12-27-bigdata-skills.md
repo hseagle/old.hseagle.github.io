@@ -4,7 +4,6 @@ title: 大数据技术能力的基本组成
 description: 能力培养
 categories:
   - bigdata
-  - open source
 ---
 # 大数据技术能力
 
