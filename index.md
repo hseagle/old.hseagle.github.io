@@ -7,9 +7,7 @@ title: 数据星球
 
 专注于IoT数据的存储与分析
 
-文章列表
-
-- first line
+-
 {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
