@@ -1,12 +1,11 @@
 ---
 layout: post
 title: 大数据技术能力的基本组成
-description: A simple plugin for tinymce that provides syntax highlighting.
+description: 能力培养
 categories:
   - bigdata
   - open source
 ---
-
 # 大数据技术能力
 
 - 分布式消息队列 以kakfa和rocketmq为代表
