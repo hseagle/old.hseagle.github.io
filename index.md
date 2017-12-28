@@ -43,3 +43,10 @@
 2. 数据平台
 3. 数据解决方案
 4. 数据产品
+
+{% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+{% endfor %}
