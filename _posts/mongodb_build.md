@@ -1,3 +1,7 @@
+---
+title: centos 7 源码编译MongoDB
+---
+
 centos 7中从源码编译mongodb
 
 ```bash
