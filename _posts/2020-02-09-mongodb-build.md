@@ -23,5 +23,6 @@ scons -j2  CC=/opt/rh/devtoolset-8/root/usr/bin/gcc CXX=/opt/rh/devtoolset-8/roo
 验证编译后的程序可以正常运行
 
 ```bash
+mkdir /tmp/mongodb
 ./mongod --dbpath /tmp/mongodb/
 ```
