@@ -33,9 +33,6 @@ show_excerpts: true
 
 {% raw %}
 
----
-layout: null
----
 {%-if site.plainwhite.sitemap -%}
     <?xml version="1.0" encoding="UTF-8"?>
     <urlset
