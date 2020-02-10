@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: 数据星球
 description: 专注于IoT数据解决方案的设计与实现
 email: hs_xp@163.com
-theme: Minima
+theme: jekyll-theme-hacker
 mardown: kramdown
 paginate: 5
 permalink: pretty
