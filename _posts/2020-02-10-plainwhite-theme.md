@@ -31,7 +31,7 @@ show_excerpts: true
 
 添加文件sitemap.xml
 
-```xml
+```text
 ---
 layout: null
 ---
