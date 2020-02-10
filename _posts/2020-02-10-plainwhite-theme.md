@@ -31,8 +31,8 @@ show_excerpts: true
 
 添加文件sitemap.xml
 
-```xml
-\{%-if site.plainwhite.sitemap -%\}
+```html
+{%-if site.plainwhite.sitemap -%}
     <?xml version="1.0" encoding="UTF-8"?>
     <urlset
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -53,7 +53,7 @@ show_excerpts: true
             </url>
         {%- endfor -%}
     </urlset>    
-\{%- endif -%\}
+{%- endif -%}
 ```
 
 把index.html中的内容改为
