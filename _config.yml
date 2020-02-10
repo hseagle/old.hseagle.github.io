@@ -8,9 +8,11 @@ kramdown:
    hard_wrap: true
 paginate: 5
 permalink: pretty
+urls: https://hseagle.github.io
 plugins:
     - jekyll-feed
     - jekyll-archives
+    - jekyll-sitemap
 plainwhite:
  name: Peng Xu
  tagline: Developer. Architect
