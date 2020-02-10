@@ -31,10 +31,7 @@ show_excerpts: true
 
 添加文件sitemap.xml
 
-```text
----
-layout: null
----
+```bash
 {%-if site.plainwhite.sitemap -%}
     <?xml version="1.0" encoding="UTF-8"?>
     <urlset
