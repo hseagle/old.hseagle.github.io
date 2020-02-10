@@ -31,7 +31,10 @@ show_excerpts: true
 
 添加文件sitemap.xml
 
-```html
+{% raw %}
+---
+layout: null
+---
 {%-if site.plainwhite.sitemap -%}
     <?xml version="1.0" encoding="UTF-8"?>
     <urlset
@@ -54,7 +57,7 @@ show_excerpts: true
         {%- endfor -%}
     </urlset>    
 {%- endif -%}
-```
+{% endraw %}
 
 把index.html中的内容改为
 
