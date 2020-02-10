@@ -1,8 +1,14 @@
-layout: page
+-----
 title: "centos 7 源码编译MongoDB"
-date: 2020-02-10 11:16:00 +0800
-categories: MongoDB
+-----
 
+-----
+layout: page
+-----
+
+-----
+categories: MongoDB
+-----
 
 # 源码编译mongodb
 > 编译方法适用于Mongodb和percona-mongodb-server
