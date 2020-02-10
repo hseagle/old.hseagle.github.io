@@ -1,3 +1,0 @@
-# PostgreSQL
-
-Most advanced Database
