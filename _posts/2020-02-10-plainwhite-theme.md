@@ -32,6 +32,7 @@ show_excerpts: true
 添加文件sitemap.xml
 
 {% raw %}
+
 ---
 layout: null
 ---
@@ -57,6 +58,7 @@ layout: null
         {%- endfor -%}
     </urlset>    
 {%- endif -%}
+
 {% endraw %}
 
 把index.html中的内容改为
