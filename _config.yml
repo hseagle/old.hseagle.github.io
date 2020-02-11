@@ -2,8 +2,8 @@ title: 数据星球
 description: 专注于IoT数据解决方案的设计与实现
 email: hs_xp@163.com
 #theme: minima
-#remote_theme: thelehhman/plainwhite-jekyll
-remote_theme: mmistakes/minimal-mistakes@4.18.1
+remote_theme: thelehhman/plainwhite-jekyll
+#remote_theme: mmistakes/minimal-mistakes@4.18.1
 mardown: kramdown
 kramdown: 
    hard_wrap: true
