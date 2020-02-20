@@ -1,5 +1,5 @@
 ---
-title: "如何使用Plainwhite使用"
+title: "如何使用Plainwhite模板"
 author: pengxu
 categories: jekyll PlainWhite
 date: 2020-02-10 21:09:00 +0800
