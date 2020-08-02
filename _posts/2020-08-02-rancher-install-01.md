@@ -1,6 +1,15 @@
+---
+title: "Rancher安装入坑指南"
+date: 2020-08-02 16:04:00 +0800
+author: pengxu
+categories: rancher
+---
+
 # Rancher安装入坑指南
 
 >  本文介绍如何利用virtualbox来搭建由三台k8s节点组成的rancher集群。
+
+经过几番折腾，在virtualbox环境下，搭建成功rancher集群，把步骤详细记录一下，后续大概率还会用上。
 
 ##  环境准备
 
